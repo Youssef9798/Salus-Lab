@@ -24,8 +24,8 @@ app.register(require("fastify-cors"), {
 app.get('/', async (req, res) => {
   
   // const docs = await salusCollection.find().toArray()
-
-  res.send('hello world')
+	res.redirect('/users/login')
+  
 })
 
 app.register(require("./routes/users"));

@@ -5,6 +5,13 @@ import dashboardView from '../views/dashboard.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
+	{
+      path: '/',
+      name: '',
+      beforeEnter: (to, from , next) => {
+		next({name: 'login'})
+	  }
+    },
     {
       path: '/login',
       name: 'login',
