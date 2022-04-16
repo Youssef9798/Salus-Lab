@@ -28,3 +28,8 @@ I provides four simple and core endpoints:
 |GET |  localhost:3000/users/:id   | id of the user  | status code and registered user |
 |POST|  localhost:3000/users/register   | { username, email, password }  | status code and registered user |
 |POST|  localhost:3000/users/login   | { email, password }  | status code and loged in user |
+
+
+
+https://user-images.githubusercontent.com/42498703/163690111-df8a8bf2-2d77-4b7e-afa8-2e4db5ca0f18.mp4
+
