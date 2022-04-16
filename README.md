@@ -8,6 +8,8 @@ This project is a basic login, registeration and dashboard. Users can register a
 ## Content
 This repo contains the both files for the client and for the server sides, I used for the client side VueJS and TailwindCSS, for the backend I used NodeJS/Fastify and MongoDB.
 
+Server-side listen at port 5000 while the Client-side listen at port 3000.
+
 ## Installtion
 To install and build this project you have to install the packages first for the both folders using the following command:
 
