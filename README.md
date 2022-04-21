@@ -1,6 +1,6 @@
-# Salus-Lap
+# Salus-Lab
 
-Welcome to saluslap simple dashboard.
+Welcome to saluslab simple dashboard.
 
 ## Introduction
 This project is a basic login, registeration and dashboard. Users can register and login the system then they could access the dashboard which contains a simple table of all registered users.
